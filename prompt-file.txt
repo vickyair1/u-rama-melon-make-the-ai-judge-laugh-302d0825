@@ -1,0 +1,1 @@
+Build a make.fun bounty entry for u-rama-melon-make-the-ai-judge-laugh-302d0825 ("Make the AI Judge Laugh"): write ONE original one-line joke about office life, under 200 characters, as a Python program (main.py) that writes the line to /output/entry.txt. Aim for rank 1 — true to office life, surprising turn, tight wording, fresh angle.
